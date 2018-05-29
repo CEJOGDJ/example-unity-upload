@@ -239,9 +239,15 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+<<<<<<< HEAD
   m_Color: {r: 0.4742672, g: 0.7264151, b: 0.3255162, a: 1}
+=======
+<<<<<<< HEAD
   m_Color: {r: 0.4742672, g: 0.7264151, b: 0.3255162, a: 1}
+=======
   m_Color: {r: 0.7254902, g: 0.58728874, b: 0.32549018, a: 1}
+>>>>>>> parent of 2a90c54... Merge branch 'master' of https://github.com/CEJOGDJ/example-unity-upload
+>>>>>>> 6be3bd120624f4422c6598f185881d2e1724aae2
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
