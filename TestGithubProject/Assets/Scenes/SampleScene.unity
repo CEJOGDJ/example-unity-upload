@@ -247,6 +247,7 @@ SpriteRenderer:
 =======
   m_Color: {r: 0.7254902, g: 0.58728874, b: 0.32549018, a: 1}
 >>>>>>> parent of 2a90c54... Merge branch 'master' of https://github.com/CEJOGDJ/example-unity-upload
+  m_Color: {r: 0.7254902, g: 0.58728874, b: 0.32549018, a: 1}
 >>>>>>> 6be3bd120624f4422c6598f185881d2e1724aae2
   m_FlipX: 0
   m_FlipY: 0
